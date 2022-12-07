@@ -1,0 +1,1 @@
+This a exercise on the Shell variables for the alx_SE program
